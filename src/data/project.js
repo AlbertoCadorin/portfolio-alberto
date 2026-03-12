@@ -35,5 +35,12 @@ export const projects = [
         tech: ["HTML", "CSS"],
         github: "https://github.com/AlbertoCadorin/html-css-spotifyweb",
         image: "/images/discord-home.jpg"
+    }, {
+        id: 6,
+        title: "Task Management System",
+        description: "Sistema di gestione task con React + TypeScript frontend e Node.js + Express + MySQL backend. Supporta CRUD completo, priorità (low, medium, high), stati (todo, in_progress, done) e un'interfaccia responsive con Material-UI.",
+        tech: ["React", "TypeScript", "Node.js", "Express", "MySQL", "Vite"],
+        github: "https://github.com/AlbertoCadorin/task-management-system",
+        image: "/images/task-management.jpg"
     }
 ]
